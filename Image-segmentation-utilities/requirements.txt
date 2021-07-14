@@ -1,0 +1,11 @@
+opencv_python
+scikit_image
+scipy
+tqdm
+seaborn
+pandas
+matplotlib
+numpy
+pillow
+python_gflags
+scikit-learn
