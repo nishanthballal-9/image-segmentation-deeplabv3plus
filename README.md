@@ -81,7 +81,7 @@ Note: Evaluation can be done image wise with the above notebook.
 ## Sample Result
 
 Original Mask:
-![d0cf594c5106fb84e894c0b12013f367](https://github.com/nishanthballal-9/image-segmentation-deeplabv3plus/blob/main/Val_Results_reconstructed/d0cf594c5106fb84e894c0b12013f367.png)
+![d0cf594c5106fb84e894c0b12013f367_mask](https://github.com/nishanthballal-9/image-segmentation-deeplabv3plus/blob/main/Valid_Mask/d0cf594c5106fb84e894c0b12013f367_mask.png)
 
 Predicted Mask:
-![d0cf594c5106fb84e894c0b12013f367_mask](https://github.com/nishanthballal-9/image-segmentation-deeplabv3plus/blob/main/Valid_Mask/d0cf594c5106fb84e894c0b12013f367_mask.png)
+![d0cf594c5106fb84e894c0b12013f367](https://github.com/nishanthballal-9/image-segmentation-deeplabv3plus/blob/main/Val_Results_reconstructed/d0cf594c5106fb84e894c0b12013f367.png)
